@@ -11,6 +11,7 @@ using System.Windows.Forms;
 
 namespace ImageShowByUrl
 {
+    
     [ToolboxItem(true)]
     public class MyURLImage : PictureBox
     {
